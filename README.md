@@ -1,4 +1,4 @@
-# ZF2CronModule
+# ZF2 Generic Cron/Console Module
 
 To use this module, You need to write function in model and need 
 to create an entry of that model in module.php's "getServiceConfig()" function 
