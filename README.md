@@ -10,5 +10,5 @@ After that you can run the command :
 
 php public/index.php cron index --method='Method name defined in model' --model='Key set in side the getServiceConfig'  [--args='Optional, you can pass any string parameter']
 
-If any issue or query on <a href="mailTo:kudeepakh@gmail.com">kudeepakh@gmail.com</a>.
+If any issue or query contact on <a href="mailTo:kudeepakh@gmail.com">kudeepakh@gmail.com</a>. 
 Website : <a href="http://deepakkumar.co.in/">http://deepakkumar.co.in/</a>
