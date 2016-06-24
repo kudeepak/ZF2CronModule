@@ -1,4 +1,4 @@
-# ZF2 Generic Cron/Console Module
+# Zend Framework 2 : Generic Console Module for cron job
 
 Install the module in your ZF2 application.
 
